@@ -92,8 +92,8 @@ releases:
     releaseDate: 2016-10-15
     lts: true
     support: 2022-01-11
-    eol: 2022-01-11
-    extendedSupport: 2027-01-12
+    eol: 2027-01-12
+    extendedSupport: false
     latest: 10.0.14393
     link: https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2016
 
